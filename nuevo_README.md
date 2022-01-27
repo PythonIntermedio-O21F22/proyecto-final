@@ -15,10 +15,6 @@
 - QT Designer
   
 
-## Funcionalidades
-
-
-
 ## Organización de carpetas
 > TODO: Actualizar, revisar uso de comando [tree](https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md) y [documento](https://github.com/kriasoft/Folder-Structure-Conventions/blob/master/README.md) de referencia
 
